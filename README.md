@@ -145,4 +145,6 @@ The notebook produces:
 * return_anomalies.csv
 * volume_anomalies.csv
 
+  The primary application is the notebook-based prototype implemented in Google Colab.
+
 These files are included in the repository.
