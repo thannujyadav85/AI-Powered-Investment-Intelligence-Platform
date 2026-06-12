@@ -1,4 +1,4 @@
-# AI-Powered-Investment-Intelligence-Platform
+# Recommendation Systems for Personalized Content Discovery
 ## Environment Setup
 
 ### Prerequisites
